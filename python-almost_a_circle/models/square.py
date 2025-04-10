@@ -3,7 +3,7 @@
 inheritance of class Rectangle
 """
 from models.rectangle import Rectangle
-
+ 
 
 class Square(Rectangle):
     """ Class Rectangle """
